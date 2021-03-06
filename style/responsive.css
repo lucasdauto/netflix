@@ -1,0 +1,12 @@
+@media(min-width:780px) {
+    .filme-principal {
+        height: 480px;
+    }
+}
+
+@media(min-width: 980px) {
+    .filme-principal {
+        height: 520px;
+        background-position-y: 30%;
+    }
+}

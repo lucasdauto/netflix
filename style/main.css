@@ -148,15 +148,13 @@ header nav a:hover {
     margin-right: 5px;
 }
 
-@media(min-width:780px) {
-    .filme-principal {
-        height: 480px;
-    }
+.carrosel-filmes {
+    margin-top: 20px;
 }
 
-@media(min-width: 980px) {
-    .filme-principal {
-        height: 520px;
-        background-position-y: 30%;
-    }
+.box-filme {
+    height: 15%;
+    width: 15%;
+    display: block;
+    border-radius: 5px;
 }
